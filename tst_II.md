@@ -19,7 +19,4 @@
 
 Entonces: ¡brown **➞**¡
 
-```
-git remote add origin https://github.com/ursamayor/GisTuto.git
-git push -u origin master
-```
+It's a new era, era.
