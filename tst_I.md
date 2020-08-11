@@ -19,6 +19,10 @@
 
 Entonces: ¡brown **➞**¡
 
-Vamos a ver si esto anda un pouco mais largo.
+```
+git remote add origin https://github.com/ursamayor/GisTuto.git
+git push -u origin master
+```
 
-Pero non sabeumos que fair.
+
+
